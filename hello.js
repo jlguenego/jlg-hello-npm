@@ -3,5 +3,5 @@
 const os = require("os");
 const name = os.userInfo().username;
 
-console.log(`Hello ${name}`);
+console.log(`Hello ${name}!`);
 
